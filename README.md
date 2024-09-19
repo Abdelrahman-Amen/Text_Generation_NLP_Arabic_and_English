@@ -4,6 +4,10 @@ This project demonstrates how to build a text generation model using Wikipedia c
 # Overview
 The goal of this project is to build a text generation model that predicts the next word in a sequence of text. We demonstrate this for both English and Arabic languages, using content retrieved from Wikipedia. The model is trained using an RNN-based architecture and generates text based on a seed text provided by the user.
 
+
+![download](https://github.com/user-attachments/assets/9209f21a-85c3-42be-81d2-2adb356a9f8a)
+
+
 # Model Architecture
 The model is built using the following layers:
 1. Embedding Layer: Transforms words into dense vectors of fixed size (100 dimensions).
