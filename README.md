@@ -7,10 +7,10 @@ The goal of this project is to build a text generation model that predicts the n
 
 # Model Architecture
 
-![download](https://github.com/user-attachments/assets/9209f21a-85c3-42be-81d2-2adb356a9f8a)
+![download](https://github.com/user-attachments/assets/9209f21a-85c3-42be-81d2-2adb356a9f8a)   ![download](https://github.com/user-attachments/assets/548b6e62-545b-4ae0-b183-674c4f70ffb5)
 
 
-![download](https://github.com/user-attachments/assets/548b6e62-545b-4ae0-b183-674c4f70ffb5)
+
 
 The model is built using the following layers:
 1. Embedding Layer: Transforms words into dense vectors of fixed size (100 dimensions).
