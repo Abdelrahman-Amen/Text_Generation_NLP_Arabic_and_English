@@ -1,4 +1,4 @@
-# Text Generation in Arabic and English using SimpleRNN
+# Text Generation in Arabic and English using SimpleRNN 📚
 This project demonstrates how to build a text generation model using Wikipedia content in both Arabic and English. We utilize Recurrent Neural Networks (RNNs) for sequence prediction, specifically the SimpleRNN layer, to generate text based on input sequences of words.
 
 # Overview
